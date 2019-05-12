@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\KG3\KG3\bin\Release\KG3.exe.config
+C:\Users\Administrator\Desktop\KG3\KG3\bin\Release\KG3.exe
+C:\Users\Administrator\Desktop\KG3\KG3\bin\Release\KG3.pdb
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\KG3_MarkupCompile.cache
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\KG3_MarkupCompile.lref
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\KG3.g.resources
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\KG3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\KG3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\KG3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\KG3.exe
+C:\Users\Administrator\Desktop\KG3\KG3\obj\Release\KG3.pdb
