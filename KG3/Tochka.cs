@@ -13,6 +13,7 @@ namespace KG3
     {
         private double x;
 
+
         /// <summary>
         /// Координата Х
         /// </summary>
